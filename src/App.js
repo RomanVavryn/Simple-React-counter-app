@@ -21,6 +21,7 @@ export default class App extends Component {
         <h3>Count: {this.state.count} </h3> 
         <button className='btn' onClick={this.inc}>+</button>
         <button className='btn' onClick={this.dec}>-</button>
+        <h6>author: Roman Vavrynkevych</h6>
       </div>
     )
   }
