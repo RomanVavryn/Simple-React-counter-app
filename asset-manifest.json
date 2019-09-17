@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-React-counter-app/static/css/main.da57bf96.chunk.css",
+    "main.js": "/Simple-React-counter-app/static/js/main.516d1c17.chunk.js",
+    "main.js.map": "/Simple-React-counter-app/static/js/main.516d1c17.chunk.js.map",
+    "runtime~main.js": "/Simple-React-counter-app/static/js/runtime~main.8fb81e4e.js",
+    "runtime~main.js.map": "/Simple-React-counter-app/static/js/runtime~main.8fb81e4e.js.map",
+    "static/js/2.eef472e2.chunk.js": "/Simple-React-counter-app/static/js/2.eef472e2.chunk.js",
+    "static/js/2.eef472e2.chunk.js.map": "/Simple-React-counter-app/static/js/2.eef472e2.chunk.js.map",
+    "index.html": "/Simple-React-counter-app/index.html",
+    "precache-manifest.3fbd92e902a16fa1c64a07a9af28789c.js": "/Simple-React-counter-app/precache-manifest.3fbd92e902a16fa1c64a07a9af28789c.js",
+    "service-worker.js": "/Simple-React-counter-app/service-worker.js",
+    "static/css/main.da57bf96.chunk.css.map": "/Simple-React-counter-app/static/css/main.da57bf96.chunk.css.map"
+  }
+}
